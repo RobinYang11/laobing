@@ -2,6 +2,8 @@
 
 .vs
 .vscode
-./rwar
+rwar
 Library
 Temp
+obj
+Logs
